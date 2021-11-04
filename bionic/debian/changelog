@@ -1,3 +1,9 @@
+ignition-rendering5 (5.2.0-1~bionic) bionic; urgency=medium
+
+  * ignition-rendering5 5.2.0-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Wed, 03 Nov 2021 17:22:06 -0700
+
 ignition-rendering5 (5.1.0-1~bionic) bionic; urgency=medium
 
   * ignition-rendering5 5.1.0-1 release
